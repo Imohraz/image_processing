@@ -1,5 +1,5 @@
 # Image Processing with Matrices
-<img src="https://github.com/Imohraz/images/blob/main/screen.JPG" alt="Preview" width="400" height="300">
+<img src="https://github.com/Imohraz/image_processing/blob/main/image/screen.JPG" alt="Preview" width="400" height="300">
 
 This project performs basic operations on matrices for image processing.
 
