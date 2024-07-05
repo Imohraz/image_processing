@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7228bd663708b871f983.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "image_processing",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "image_processing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-image_processing-Debug-c4a6593298c545b3577c.json",
+					"name" : "image_processing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "image_processing_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-image_processing_autogen-Debug-50d59169e9974750d2bc.json",
+					"name" : "image_processing_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "image_processing_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-image_processing_autogen_timestamp_deps-Debug-2c0b004e7c2ecb548a47.json",
+					"name" : "image_processing_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Acer/Desktop/image_processing/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Acer/Desktop/image_processing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

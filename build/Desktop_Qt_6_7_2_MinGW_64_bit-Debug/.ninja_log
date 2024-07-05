@@ -1,0 +1,9 @@
+# ninja log v6
+3	530	7418778519515775	image_processing_autogen/timestamp	54cf4b90a90834f7
+3	530	7418778519515775	image_processing_autogen/mocs_compilation.cpp	54cf4b90a90834f7
+3	530	7418778519515775	C:/Users/Acer/Desktop/image_processing/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/image_processing_autogen/timestamp	54cf4b90a90834f7
+3	530	7418778519515775	C:/Users/Acer/Desktop/image_processing/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/image_processing_autogen/mocs_compilation.cpp	54cf4b90a90834f7
+536	2173	7418778520140330	CMakeFiles/image_processing.dir/main.cpp.obj	2cba653bf3773e0b
+533	2314	7418778520140330	CMakeFiles/image_processing.dir/image_processing_autogen/mocs_compilation.cpp.obj	4531a96db4f78cc7
+539	2813	7418778520140330	CMakeFiles/image_processing.dir/mainwindow.cpp.obj	aa27f52cf3f84cbd
+2814	3470	7418778542969124	image_processing.exe	975dc8ba527305a6
